@@ -1,0 +1,49 @@
+body{
+  height: 3000px;
+}
+.left-sidebar{
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 50px;
+  position: fixed;
+  background-color: rgb(79, 78, 78);
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+div{
+  font-family: Arial;
+  font-size: 12px;
+
+}
+.image{
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+}
+.left-left-sidebar{
+  left: 51px;
+  top: 0;
+  bottom: 0;
+  width: 100px;
+  position: fixed;
+  background-color: rgb(50, 47, 47);
+  padding-top: 5px;
+  padding-left: 5px;
+}
+.info{
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.hash{
+  color: rgb(103, 100, 100);
+  padding-left: 10px;
+
+}
+.menu{
+    padding-top: 10px;
+    display: flex;
+  }
