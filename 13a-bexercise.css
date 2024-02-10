@@ -1,0 +1,50 @@
+.container{
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  
+}   
+.item1{
+  background-color: black;
+  color: white;
+}
+.column1{
+  background-color: lightpink;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.column2{
+  background-color: lightblue;
+  width: 200px;
+}
+
+
+.container2{
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  margin-top: 4px;
+
+}
+.column3{
+  background-color: lightpink;
+  width: 100px; 
+}
+.column4{
+  background-color: lightblue;
+  width: 200px;
+}
+
+.nested-flexbox{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.row2-item{
+  background-color: black;
+  color: white;
+}
+  

@@ -1,0 +1,48 @@
+.red-square{
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  border: none;
+  display: inline-block;
+  vertical-align: top;
+  }
+  .green-circle{
+  background-color: green;
+  width: 50px;
+  height: 50px;
+  border: none;
+  border-radius: 25px;
+  vertical-align: top;
+  }
+  .border-line{
+    border: 1px;
+    border-style: solid;
+    width: 250px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+  
+  }
+  .yes-no{
+    font-family: Arial;
+  }
+  .yt-music{
+    background-color: rgb(36, 28, 28);
+    border: 1px;
+    border-style: solid;
+    width: 300px;
+  }
+  .youtube-music{
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 5px;
+    margin-top: 10px;
+  }
+  .add-desktop{
+    color: gray;
+    font-family: Arial;
+    font-size: 13px;
+  
+  }
